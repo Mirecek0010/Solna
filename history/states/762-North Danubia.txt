@@ -1,0 +1,30 @@
+
+state={
+	id=762
+	name="STATE_762" # Northern Hungary
+	manpower = 3750752
+	resources={
+		steel=2 # was: 4
+		aluminium=50 # was: 194
+	}
+	
+	state_category = city
+
+	history={
+		owner = GSL
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 4
+			air_base = 0
+		}
+		victory_points = {
+			11610 5 
+		}
+		add_core_of = GSL
+	}
+
+	provinces={
+		686 701 6703 6720 9676 11663 
+	}
+}

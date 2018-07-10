@@ -1,0 +1,28 @@
+
+state={
+	id=763
+	name="STATE_763"
+
+	history={
+		owner = GSL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+			air_base = 0
+
+		}
+		victory_points = {
+			11659 1 
+		}
+		add_core_of = GSL
+
+	}
+
+	provinces={
+		6700 11625 6670
+	}
+	manpower=2216383
+	buildings_max_level_factor=1.000
+	state_category=city
+}
